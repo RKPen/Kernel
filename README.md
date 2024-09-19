@@ -1,6 +1,6 @@
 # Minimalistic Kernel for Raspberry Pi
 
-This repository contains a minimalistic kernel built from scratch for the Raspberry Pi, developed as part of my CMPS 240 Operating Systems course. The kernel features a command-line interface (CLI), dynamic memory allocation, and Caesar Cipher functionalities.
+This repository contains a minimalistic kernel built from scratch for the Raspberry Pi. The kernel features a command-line interface (CLI), dynamic memory allocation, and Caesar Cipher functionalities.
 
 ## Features
 
